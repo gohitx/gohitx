@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[open an issue](https://github.com/gohitx/gohit.xyz)
+
 <!--
 **gohitx/gohitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
