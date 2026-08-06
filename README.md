@@ -2,6 +2,12 @@
 
 **Now at [JilaTax](https://www.jilatax.dev), working on **JilaIDE**—an open, independent IDE for the next generation of AI agents**.
 
+![iOS](https://img.shields.io/badge/-iOS-FA7343?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-04C0A1?style=flat-square&logo=android&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-FFFFFF?style=flat-square&logo=apple&logoColor=000000)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ---
 
 <div align="center">
