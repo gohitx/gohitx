@@ -11,7 +11,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 
-## Featured Works & Tools [**`gohit.xyz`**](https://www.gohit.xyz/) 
+## 🌐 Featured Works & Tools ([gohit.xyz](https://www.gohit.xyz/))
 
 ### 🧩 VS Code Extensions
 - 🏎️ **[F1](https://open-vsx.org/extension/bastndev/f1)** — AI CLI Hub for VS Code. Run Claude Code, Codex, Copilot, Cursor & AI agents in embedded terminals.
@@ -31,7 +31,6 @@
 ### 📦 Packages
 - 🛠️ **[fixnow](https://www.npmjs.com/package/fixnow)** — Reusable utility module for quick automated fixes.
 - 👁️ **[vistaz](https://www.npmjs.com/package/vistaz)** — Lightweight page view counter and analytics module.
-- 🖼️ **[svghub](https://www.npmjs.com/package/svghub)** — Clean, high-performance SVG icons and graphics asset library.
 
 ---
 
