@@ -1,7 +1,9 @@
-# Hey 👋, I'm 「Gohit Bastian
+# Hi, I'm Gohit 👋
 
 **Thank you for visiting my GitHub profile. It's a pleasure to meet you here!**
 
+- 👯 I’m looking to collaborate on various open softwares, currently I'm working on:
+  - [Gohit X](https://github.com/gohitx) 
 
 ---
 
