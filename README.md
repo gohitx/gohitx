@@ -1,6 +1,12 @@
 # Hi 👋, I'm Gohit
 
-**Now at** [@JilaTax](https://www.jilatax.dev) building **JilaIDE**—an open, independent IDE for the next generation of AI agents.
+**Now at [JilaTax](https://www.jilatax.dev/) , working on agents; stewarding IDE as open and independent.!**
+
+# Hi 👋, I'm Gohit
+
+**Now at** [JilaTax](https://www.jilatax.dev) building **JilaIDE**—an open, independent IDE for the next generation of AI agents.
+
+
 
 ---
 
