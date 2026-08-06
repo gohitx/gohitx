@@ -10,6 +10,28 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
+
+## 🌐 Featured Works & Tools ([gohit.xyz](https://www.gohit.xyz/))
+
+### 🧩 VS Code Extensions
+- 🏎️ **[F1](https://www.gohit.xyz/extension/f1)** — AI CLI Hub for VS Code. Run Claude Code, Codex, Copilot, Cursor & AI agents in embedded terminals.
+- 💳 **[ATM (Λ T M)](https://www.gohit.xyz/extension/atm)** — Developer productivity toolkit: Error Lens, Git Blame, Env Protection & code screenshots.
+- 🎨 **[Lynx Theme Pro](https://www.gohit.xyz/extension/lynx-theme-pro)** — 6 professional themes (Dark, Light, Night, Ghibli, Coffee, Kiro) with integrated icons.
+- ⌨️ **[Lynx Keymap Pro](https://www.gohit.xyz/extension/lynx-keymap-pro)** — Unified keybindings across all editors with 75% keyboard support.
+- ⚡ **[Lynx Snippets](https://www.gohit.xyz/extension/lynx-snippets)** — Essential code snippets for high-speed web development.
+- 🐱 **[Lynxjs Extension](https://www.gohit.xyz/extension/lynxjs-extension)** — Extension tooling and syntax support for LynxJS framework.
+- 🚀 **[Snippets Astro](https://www.gohit.xyz/extension/snippets-astro)** — Smart snippet pack for Astro framework projects.
+
+### 🪄 Agent Skills & Workflows
+- 🕷️ **[Skrapi](https://www.gohit.xyz/skill/skrapi)** — Web scraping skill for AI coding agents.
+- 🚀 **[Start Astro](https://www.gohit.xyz/skill/start-astro)** — Astro project starter workflow & agent prompt-pack.
+- 📦 **[Start Package](https://www.gohit.xyz/skill/start-package)** — Package initialization template and rules for agents.
+- 🏁 **[End](https://www.gohit.xyz/skill/end)** — Finalize, clean up & document agent tasks.
+
+### 📦 Packages
+- 🛠️ **[fixnow](https://www.gohit.xyz/package/fixnow)** — Reusable utility module for quick automated fixes.
+- 👁️ **[vistaz](https://www.gohit.xyz/package/vistaz)** — Lightweight page view counter and analytics module.
+
 ---
 
 <!-- Youtube channel -->
