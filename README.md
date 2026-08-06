@@ -29,8 +29,9 @@
 - 🏁 **[End](https://www.gohit.xyz/skill/end)** — Finalize, clean up & document agent tasks.
 
 ### 📦 Packages
-- 🛠️ **[fixnow](https://www.gohit.xyz/package/fixnow)** — Reusable utility module for quick automated fixes.
-- 👁️ **[vistaz](https://www.gohit.xyz/package/vistaz)** — Lightweight page view counter and analytics module.
+- 🛠️ **[fixnow](https://www.npmjs.com/package/fixnow)** — Reusable utility module for quick automated fixes.
+- 👁️ **[vistaz](https://www.npmjs.com/package/vistaz)** — Lightweight page view counter and analytics module.
+- 🖼️ **[svghub](https://www.npmjs.com/package/svghub)** — Clean, high-performance SVG icons and graphics asset library.
 
 ---
 
