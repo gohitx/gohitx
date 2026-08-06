@@ -1,5 +1,7 @@
 # Hi 👋, I'm Gohit
 
+**`gohit.xyz`**
+
 **Now at [JilaTax](https://www.jilatax.dev), working on **JilaIDE**—an open, independent IDE for the next generation of AI agents**.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
