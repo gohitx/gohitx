@@ -26,8 +26,6 @@
 
 ---
 
-**`gohit.xyz`**
-
 <div align="center">
 
 *Let's talk business — find me on [LinkedIn](https://www.linkedin.com/in/gohitx)!*
