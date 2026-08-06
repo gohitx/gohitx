@@ -1,9 +1,9 @@
-### Hey 👋, I'm **Gohit** Bastian
+### Hey 👋, I'm *Gohit* Bastian
 
 **Thank you for visiting my GitHub profile. It's a pleasure to meet you here!**
 
 
-
+---
 
 <div align="center">
 
