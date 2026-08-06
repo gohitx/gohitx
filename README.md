@@ -20,17 +20,21 @@
 - ⌨️ **[Lynx Keymap Pro](https://open-vsx.org/extension/bastndev/lynx-keymap)** — Unified keybindings across all editors with 75% keyboard support.
 - ⚡ **[Lynx Snippets](https://open-vsx.org/extension/bastndev/lynx-snippets)** — Essential code snippets for high-speed web development.
 - 🐱 **[Lynxjs Extension](https://open-vsx.org/extension/bastndev/lynxjs-extension)** — Extension tooling and syntax support for LynxJS framework.
-- 🚀 **[Snippets Astro](https://open-vsx.org/extension/bastndev/snippets-astro)** — Smart snippet pack for Astro framework projects...
+- 🚀 **[Snippets Astro](https://open-vsx.org/extension/bastndev/snippets-astro)** — Smart snippet pack for Astro framework projects.
 
 ### 🪄 Agent Skills & Workflows
+- 🕷️ **[skrapi](https://skills.sh/bastndev/skills/skrapi)** — Web scraping skill for AI coding agents.
+- 🚀 **[start-astro](https://skills.sh/bastndev/skills/start-astro)** — Astro project starter workflow & agent prompt-pack.
+- 📦 **[start-package](https://skills.sh/bastndev/skills/start-package)** — Package initialization template and rules for agents.
 - 🌐 **[l10n-sync](https://skills.sh/bastndev/skills/l10n-sync)** — Localization & translation synchronization for agents.
 - 🛠️ **[refactor-project](https://skills.sh/bastndev/skills/refactor-project)** — Code structure optimization and refactoring skill.
 - ⚡ **[middle](https://skills.sh/bastndev/skills/middle)** — Mid-session workflow and milestone execution.
-- 🏁 **[end](https://skills.sh/bastndev/skills/end)** — Finalize, clean up & document agent tasks...
+- 🏁 **[end](https://skills.sh/bastndev/skills/end)** — Finalize, clean up & document agent tasks.
 
 ### 📦 Packages
 - 🛠️ **[fixnow](https://www.npmjs.com/package/fixnow)** — Reusable utility module for quick automated fixes.
 - 👁️ **[vistaz](https://www.npmjs.com/package/vistaz)** — Lightweight page view counter and analytics module.
+- 🖼️ **[svghub](https://www.npmjs.com/package/svghub)** — Clean, high-performance SVG icons and graphics asset library.
 
 ---
 
