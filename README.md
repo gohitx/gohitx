@@ -23,10 +23,13 @@
 - 🚀 **[Snippets Astro](https://open-vsx.org/extension/bastndev/snippets-astro)** — Smart snippet pack for Astro framework projects.
 
 ### 🪄 Agent Skills & Workflows
-- 🕷️ **[Skrapi](https://www.gohit.xyz/skill/skrapi)** — Web scraping skill for AI coding agents.
-- 🚀 **[Start Astro](https://www.gohit.xyz/skill/start-astro)** — Astro project starter workflow & agent prompt-pack.
-- 📦 **[Start Package](https://www.gohit.xyz/skill/start-package)** — Package initialization template and rules for agents.
-- 🏁 **[End](https://www.gohit.xyz/skill/end)** — Finalize, clean up & document agent tasks.
+- 🕷️ **[skrapi](https://skills.sh/bastndev/skills/skrapi)** — Web scraping skill for AI coding agents.
+- 🚀 **[start-astro](https://skills.sh/bastndev/skills/start-astro)** — Astro project starter workflow & agent prompt-pack.
+- 📦 **[start-package](https://skills.sh/bastndev/skills/start-package)** — Package initialization template and rules for agents.
+- 🌐 **[l10n-sync](https://skills.sh/bastndev/skills/l10n-sync)** — Localization & translation synchronization for agents.
+- 🛠️ **[refactor-project](https://skills.sh/bastndev/skills/refactor-project)** — Code structure optimization and refactoring skill.
+- ⚡ **[middle](https://skills.sh/bastndev/skills/middle)** — Mid-session workflow and milestone execution.
+- 🏁 **[end](https://skills.sh/bastndev/skills/end)** — Finalize, clean up & document agent tasks.
 
 ### 📦 Packages
 - 🛠️ **[fixnow](https://www.npmjs.com/package/fixnow)** — Reusable utility module for quick automated fixes.
