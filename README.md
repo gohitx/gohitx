@@ -1,4 +1,4 @@
-# Hi, I'm Gohit 👋
+# Hi 👋, I'm Gohit
 
 **Thank you for visiting my GitHub profile. It's a pleasure to meet you here!**
 
