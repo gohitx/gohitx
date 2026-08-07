@@ -44,10 +44,11 @@
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🧪 Hello World!! #code #programming  #shorts](https://ytcards.demolab.com/?id=otLIzN8u-9w&title=%F0%9F%A7%AA+Hello+World%21%21+%23code+%23programming++%23shorts&lang=en&timestamp=1751783307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=44 "🧪 Hello World!! #code #programming  #shorts")](https://www.youtube.com/shorts/otLIzN8u-9w)
-[![Extension para Vscode Dark thema 2025  #reels](https://ytcards.demolab.com/?id=h7F9kvvQOLw&title=Extension+para+Vscode+Dark+thema+2025++%23reels&lang=en&timestamp=1744517996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=38 "Extension para Vscode Dark thema 2025  #reels")](https://www.youtube.com/shorts/h7F9kvvQOLw)
-[![Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts](https://ytcards.demolab.com/?id=_IAXOqjpmkQ&title=Descubr%C3%AD+proyectos+ocultos+de+%23linux++%F0%9F%90%A7%F0%9F%92%BB+y+%7C+Necesito+tu+ayuda+para+encontrar+m%C3%A1s+%23shorts&lang=en&timestamp=1743826045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=60 "Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts")](https://www.youtube.com/shorts/_IAXOqjpmkQ)
+[![Mejores Herramientas para Linux 🐧 2025 | Alternativas Potentes a Software de Windows](https://ytcards.demolab.com/?id=JxN7_dceS94&title=Mejores+Herramientas+para+Linux+%F0%9F%90%A7+2025+%7C+Alternativas+Potentes+a+Software+de+Windows&lang=es&timestamp=1728865202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=1222 "Mejores Herramientas para Linux 🐧 2025")](https://www.youtube.com/watch?v=JxN7_dceS94)
+[![Paquetes Flatpak vs. Snap vs. .DEB vs. RPM 🚀 ¿Cuál es el Mejor en 2025?](https://ytcards.demolab.com/?id=GmItICIcX6g&title=Paquetes+Flatpak+vs.+Snap+vs.+.DEB+vs.+RPM+%F0%9F%9A%80+%C2%BFCu%C3%A1l+es+el+Mejor+en+2025%3F&lang=es&timestamp=1737936006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=477 "Paquetes Flatpak vs. Snap vs. .DEB vs. RPM")](https://www.youtube.com/watch?v=GmItICIcX6g)
+[![La GUÍA de Linux: Comandos, Apps, Paquetes y Websites que deberías conocer y usar](https://ytcards.demolab.com/?id=SNN2cU8zOEQ&title=La+GU%C3%8DA+de+Linux%3A+Comandos%2C+Apps%2C+Paquetes+y+Websites+que+deber%C3%ADas+conocer+y+usar+%C2%A1YA!!+2025&lang=es&timestamp=1739930406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=273&border_radius=10&duration=2557 "La GUÍA de Linux 2025")](https://www.youtube.com/watch?v=SNN2cU8zOEQ)
 <!-- END YOUTUBE-CARDS -->
+
 </div>
 
 ---
@@ -55,6 +56,7 @@
 <div align="center">
 
 *Let'stalk business — find me on [LinkedIn](https://www.linkedin.com/in/gohitx)!*  
+
 [facebook](https://web.facebook.com/gohitx) · [TikTok](https://www.tiktok.com/@gohitx) · [instagram](https://www.instagram.com/gohitx)
 
 </div>
