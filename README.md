@@ -36,9 +36,9 @@
 - 👁️ **[vistaz](https://www.npmjs.com/package/vistaz)** — Lightweight page view counter and analytics module.
 - 🖼️ **[svghub](https://www.npmjs.com/package/svghub)** — Clean, high-performance SVG icons and graphics asset library...
 
-<br>
 
 ---
+<br>
 
 <!-- Youtube channel -->
 ### 📺 Latest YouTube Videos
