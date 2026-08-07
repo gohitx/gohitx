@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi 👋, I'm Gohit
 
 **Now at [JilaTax](https://www.jilatax.dev), working on JilaIDE—an open, independent IDE for the next generation of AI agents.**
@@ -11,6 +9,8 @@
 ![macOS](https://img.shields.io/badge/-macOS-FFFFFF?style=flat-square&logo=apple&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+<div align="center">
 
 ## 🌐 Featured Works & Tools ([gohit.xyz](https://www.gohit.xyz/))
 
