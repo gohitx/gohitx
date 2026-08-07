@@ -1,6 +1,8 @@
 # Hi 👋, I'm Gohit
 
-**Now at [JilaTax](https://www.jilatax.dev), working on **JilaIDE**—an open, independent IDE for the next generation of AI agents**.
+<div align="center">
+
+**Now at [JilaTax](https://www.jilatax.dev), working on JilaIDE—an open, independent IDE for the next generation of AI agents.**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-04C0A1?style=flat-square&logo=android&logoColor=white)
@@ -10,6 +12,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
+</div>
 
 ## 🌐 Featured Works & Tools ([gohit.xyz](https://www.gohit.xyz/))
 
