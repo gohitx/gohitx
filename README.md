@@ -38,7 +38,6 @@
 
 
 ---
-<br>
 
 <!-- Youtube channel -->
 ### 📺 Latest YouTube Videos
