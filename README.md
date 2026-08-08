@@ -11,7 +11,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?style=flat-square&logo=windows&logoColor=white)
 
 
-## 🌐 Featured Works & Tools [[gohit.xyz](https://www.gohit.xyz/)]
+## 🌐 Featured Works & Tools ⌜[gohit.xyz](https://www.gohit.xyz/)⌟
 
 ### 🧩 VS Code Extensions
 - 🏎️ **[F1](https://open-vsx.org/extension/bastndev/f1)** — AI CLI Hub for VS Code. Run Claude Code, Codex, Copilot, Cursor & AI agents in embedded terminals.
