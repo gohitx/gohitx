@@ -8,7 +8,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-FFFFFF?style=flat-square&logo=apple&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00A4EF?style=flat-square&logo=windows&logoColor=white)
 
 
 ## 🌐 Featured Works & Tools ([gohit.xyz](https://www.gohit.xyz/))
