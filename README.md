@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gohit
 
-**Now at [JilaTax](https://www.jilatax.dev), working on JilaIDE—an open, independent IDE for the next generation of AI agents.**
+**Now at [Alttiplano](https://www.alttiplano.com), building an open, independent IDE for the next generation of AI agents.**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-058f78?style=flat-square&logo=android&logoColor=white)
